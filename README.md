@@ -1,0 +1,2 @@
+# KruskalAlgor
+ KruskalAlgor
